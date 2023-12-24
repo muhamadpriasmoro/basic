@@ -1,2 +1,3 @@
 # basic
-API can be tried through POSTMAN
+node.js API can be tried through POSTMAN 
+with npm install
